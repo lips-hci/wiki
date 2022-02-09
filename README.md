@@ -1,4 +1,5 @@
-# wiki project is for uploading raw data
-1. Create a directory with same name as your project.
-2. Upload raw data, images or pictures to the directory.
-3. In your wiki pages, link is like this format https://raw.githubusercontent.com/lips-hci/wiki/master/ *your directory* / *your filename*
+# Uploading raw data to your project wiki
+Please follow below steps:
+1. Create a directory with same name as your project, e.g. openni2_windows.
+2. Upload raw data, images, or files to the directory you created.
+3. In your wiki page, link format is https://raw.githubusercontent.com/lips-hci/wiki/master/ *your directory* / *your filename*
